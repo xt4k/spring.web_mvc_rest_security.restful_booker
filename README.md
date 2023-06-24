@@ -22,7 +22,7 @@
 
 ## General info
 
-### :arrow_forward: Web application run on Tomcat server version 10.1.9
+#### :arrow_forward: Web application run on Tomcat server version 10.1.9
 
 
 ### In project used 3 different role GUEST, USER, ADMIN which binded to users: 'guest','user','admin' accordingly. User's password equal to their username for simplicity.
