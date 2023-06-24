@@ -31,6 +31,7 @@
 ### GUEST - has only acces to read information about booking.
 ### USER - has additionally access to search by criteria and update bookings.
 ### ADMIN - has full access - may addionally create and delete bookings.
+### AOP - created @Aspect method that reflect controlled method's start-end and duration.
 
 ## Technology stack
 
