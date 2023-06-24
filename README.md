@@ -62,7 +62,7 @@
 | has no access to this page | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/def38fef-2dcd-4ea5-ad12-b3f8ae6d7b80.png" width="400" height="380"> |
 
 
-## Search result (from screenshot for 'Booking Search' page) for created booking (as shown on last screenshot):
+## Search result for exist booking:
 | 'Role 'USER' and 'ADMIN'|
 |:-------------:|
  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/ba7f5f8c-32e6-46e6-ae13-9267a8a8c3d2.png" width="600" height="250"> |
