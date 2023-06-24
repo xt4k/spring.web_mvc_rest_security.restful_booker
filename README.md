@@ -72,7 +72,7 @@
 ## Result of search (from screenshot for 'Booking Search' page) for just created booking (as shown on last screenshot):
 | 'Role 'USER' and 'ADMIN'|
 |:-------------:|
- | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/ba7f5f8c-32e6-46e6-ae13-9267a8a8c3d2.png" width="400" height="380"> |
+ | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/ba7f5f8c-32e6-46e6-ae13-9267a8a8c3d2.png" width="600" height="250"> |
 
 
 ![image](https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/bf6d9e4a-069d-4b2b-990e-5e5b6f85acb9)
