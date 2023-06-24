@@ -1,8 +1,7 @@
 # RESTFUL-BOOKER
 ## Web-Application project
 ### Done in frame self-qualification task to show and use knowledge taken from UDEMY training: 'Spring for beginners'.
-![image](https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/6322f2d9-bd8f-4919-8585-e0448088e100)
-|<img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/6322f2d9-bd8f-4919-8585-e0448088e100" width="400" height="300">
+<img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/6322f2d9-bd8f-4919-8585-e0448088e100" width="400" height="300">
 
 
 ###### *If Spring team doesn't agree with their logo presence here - please let me know and I will delete it.
