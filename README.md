@@ -66,7 +66,7 @@
 ### 'Booking Operation' page: Add new Booking
 | Role 'GUEST' and 'Role 'USER'| 'ADMIN'|
 |:-------------:|:--------:|
-| has no access to this page | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/def38fef-2dcd-4ea5-ad12-b3f8ae6d7b80.png" width="400" height="300"> |
+| has no access to this page | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/def38fef-2dcd-4ea5-ad12-b3f8ae6d7b80.png" width="400" height="380"> |
 
 
 
