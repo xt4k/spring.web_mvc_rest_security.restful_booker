@@ -22,14 +22,11 @@ public class Logging {
         long start =currentTimeMillis();
 
         log.info("Aspect logging: Started method: " + methodName);
-        out.println("Aspect logging: Started method: " + methodName);
 
         Object targetMethodResult = joinPoint.proceed();
         long duration = currentTimeMillis() - start;
 
         log.info(String.format("Aspect logging: Completed method: %s. it worked for:'%s' ms.", methodName,duration));
-        out.println("Aspect logging: Completed method: " + methodName);
-
         return targetMethodResult;
     }
 }
