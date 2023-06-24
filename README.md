@@ -1,30 +1,21 @@
-# RESTFUL-BOOKER
+## RESTFUL-BOOKER
 ## Web-Application project
 ### Done in frame self-qualification task to show and use knowledge taken from UDEMY training: 'Spring for beginners'.
 <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/6322f2d9-bd8f-4919-8585-e0448088e100" width="400" height="300">
 
 ## TABLE OF CONTENT
 
-* [RESTFUL-BOOKER](#spotify)
+* [RESTFUL-BOOKER](#restful-booker)
 * [General info](#general-info)
 * [Technology stack](#technology-stack)
-* [Test Levels](#test-levels)
-* [Typical API messages](#typical-api-messages)
-* [Web UI autotest video](#web-ui-autotest-video)
-* [Spotify mobile application autotests video](#spotify-mobile-application-autotests-video)
-* [Last screenshot for live and emulated phones accordingly](#last-screenshot-for-live-and-emulated-phones-accordingly)
-* [Spotify job screenshot](#spotify-job-screenshot)
-* [Allure report in Jenkins](#allure-report-in-jenkins)
-* [AllureTestOps screenshots](#alluretestops-screenshots)
-* [Jira issue screenshot](#jira-issue-screenshot)
-* [Mail screenshot](#mail-screenshot)
-* [Chat message](#chat-message)
+* [Spring features](#spring-features-are-used-in-project)*
+* [Web-application screenshot](#web-application-screenshots)
 
 ## General info
 
 #### :arrow_forward: Web application run on Tomcat server version 10.1.9
 
-## Such Spring features are used in project: 
+## Spring features are used in project 
 ### MVC - Model View Controller  application architecture
 ### Rest - to operate with API (free api - https://restful-booker.herokuapp.com )
 ### Security - to get different web-application behaviour according to user role. Used 3 different role GUEST, USER, ADMIN which binded to users: 'guest','user','admin' accordingly. User's password equal to their username for simplicity.
