@@ -4,7 +4,7 @@
 
     <html>
         <body>
-            <h2>Booking Information</h2>
+            <h2>Booking Operation</h2>
             <br>
             <form:form action="saveBooking" modelAttribute="bookingInfo">
                 <sec:authorize access="hasRole('USER')">
@@ -13,17 +13,17 @@
                     <form:hidden path="bookingId"/>
                     <br>
                     First name <form:input path="booking.firstName"/>
-                    <br>
+                    <br><br>
                     Last name <form:input path="booking.lastName"/>
-                    <br>
+                    <br><br>
                     Total price <form:input path="booking.totalPrice"/>
-                    <br>
+                    <br><br>
                     Deposit Paid:
                     <br>
                     true <form:radiobutton path="booking.depositPaid" text='true' value="true"/>
                     <br>
                     false <form:radiobutton path="booking.depositPaid" text='false' value="false"/>
-                    <br>
+                    <br><br>
                     Checkin date <form:input type="text"
                                          path="booking.bookingDates.checkIn"
                                          class="date"
@@ -32,12 +32,12 @@
                                           path="booking.bookingDates.checkOut"
                                           class="date"
                                           name = "booking.bookingDates.checkOut"/>
-
+                    <br><br>
                     Additional needs <form:input path="booking.additionalNeeds"/>
-                    <br>
+                    <br><br>
 
                     <input type='submit' value='OK'>
-                    <br>
+                    <br><br>
 
                     <c:url var="cancelButton" value="/getBookingInfo">
                         <c:param name="bookingId" value="${bookingInfo.bookingId}"/>

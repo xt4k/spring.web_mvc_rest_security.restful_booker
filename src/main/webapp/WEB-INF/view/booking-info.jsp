@@ -69,7 +69,7 @@
                 <input type="button" value="Add new booking" onclick="window.location.href='addBooking'"/>
                 <br><br>
                 <input type="button" value="Delete current booking" onclick="window.location.href='${deleteButton}'"/>
-            </sec:authorize>
+              </sec:authorize>
 
             <br><br>
             <input type="button" value="Back" onclick="window.location.href='${backButton}'"/>
