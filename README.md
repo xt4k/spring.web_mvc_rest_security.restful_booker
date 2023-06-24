@@ -43,7 +43,7 @@
 ## Initial Login screen (common for any role)
 ![image](https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/9a6ca2c8-438a-4cd5-9f3e-7490401bb8e3)
 
-| 'guest' with role 'GUEST' | 'user' with role 'USER' | 'admin' with role 'ADMIN' |
+| 'guest' with role 'GUEST'                 | 'user' with role 'USER'                   | 'admin' with role 'ADMIN'                    |
 |:-------------:|:--------:|:------:|
 ### Main page
 | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/3b5f4270-2c29-4789-a4b1-bf80e213ee48.png" width="200" height="300">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/e882b125-97b2-4912-8eac-c8c1754721c1.png" width="200" height="300">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7fcc4497-4f1c-449d-85fa-4ee1fd1531c3.png" width="40" height="40"> |
