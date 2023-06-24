@@ -25,12 +25,12 @@
 #### :arrow_forward: Web application run on Tomcat server version 10.1.9
 
 ## Such Spring features are used in project: 
-## MVC - Model View Controller  application architecture
-## Rest - to operate with API (free api - https://restful-booker.herokuapp.com )
-## Security - to get different web-application behaviour according to user role. Used 3 different role GUEST, USER, ADMIN which binded to users: 'guest','user','admin' accordingly. User's password equal to their username for simplicity.
-## GUEST - has only acces to read information about booking.
-## USER - has additionally access to search by criteria and update bookings.
-## ADMIN - has full access - may addionally create and delete bookings.
+### MVC - Model View Controller  application architecture
+### Rest - to operate with API (free api - https://restful-booker.herokuapp.com )
+### Security - to get different web-application behaviour according to user role. Used 3 different role GUEST, USER, ADMIN which binded to users: 'guest','user','admin' accordingly. User's password equal to their username for simplicity.
+### GUEST - has only acces to read information about booking.
+### USER - has additionally access to search by criteria and update bookings.
+### ADMIN - has full access - may addionally create and delete bookings.
 
 ## Technology stack
 
