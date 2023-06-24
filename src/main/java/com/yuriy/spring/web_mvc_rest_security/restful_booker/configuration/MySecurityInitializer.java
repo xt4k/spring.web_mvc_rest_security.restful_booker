@@ -1,0 +1,5 @@
+package com.yuriy.spring.web_mvc_rest_security.restful_booker.configuration;
+
+import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
+
+public class MySecurityInitializer extends AbstractSecurityWebApplicationInitializer {}
