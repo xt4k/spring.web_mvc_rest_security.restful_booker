@@ -56,15 +56,11 @@
 ### 'Booking Operation' page
 | Role 'GUEST'| 'Role 'USER'| Role 'ADMIN'|
 |:-------------:|:--------:|:------:|
-| <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/d8bc5bc7-7cf8-4e8d-a48c-a42bb9858f96.png" width="300" height="130"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/92aa36ac-cbc0-4fa6-9a4f-4f9f0e80e987.png" width="400" height="300"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/2b03d39a-747c-4973-9552-89ac7c56a796.png" width="350" height="180"> |
-
-
-![image](https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/92aa36ac-cbc0-4fa6-9a4f-4f9f0e80e987)
+| <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/d8bc5bc7-7cf8-4e8d-a48c-a42bb9858f96.png" width="300" height="130"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/92aa36ac-cbc0-4fa6-9a4f-4f9f0e80e987.png" width="400" height="300"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/918b0b34-eb67-4aff-a1e9-d37a4797719f.png" width="400" height="300"> |
 
 
 
-
-![image](https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7dffa3a5-f25d-4da1-a548-fe42a0556d28)
+![image](https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/918b0b34-eb67-4aff-a1e9-d37a4797719f)
 
 
 
