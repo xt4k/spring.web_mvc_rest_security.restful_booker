@@ -46,7 +46,7 @@
 ### Main page
 | 'guest' with role 'GUEST'| 'user' with role 'USER'| 'admin' with role 'ADMIN'|
 |:-------------:|:--------:|:------:|
-| <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/3b5f4270-2c29-4789-a4b1-bf80e213ee48.png" width="300" height="300">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/e882b125-97b2-4912-8eac-c8c1754721c1.png" width="300" height="300">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7fcc4497-4f1c-449d-85fa-4ee1fd1531c3.png" width="300" height="300"> |
+| <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/3b5f4270-2c29-4789-a4b1-bf80e213ee48.png" width="300" height="300">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/b04ff288-4f2b-47e2-a4cb-1f453becfd80.png" width="300" height="300">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7fcc4497-4f1c-449d-85fa-4ee1fd1531c3.png" width="300" height="300"> |
 
 
 
@@ -62,6 +62,7 @@
 ![image](https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/e882b125-97b2-4912-8eac-c8c1754721c1)
 
 
+![image](https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/b04ff288-4f2b-47e2-a4cb-1f453becfd80)
 
 
 
