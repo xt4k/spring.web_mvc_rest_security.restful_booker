@@ -51,7 +51,7 @@
 ### 'Booking Information' page
 | Role 'GUEST'| 'Role 'USER'| Role 'ADMIN'|
 |:-------------:|:--------:|:------:|
-| <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/0d0f2e2c-230c-4ffe-8258-141dc795db6a.png" width="300" height="300">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/2ac6fc5c-2121-409e-9f9b-c3b0f90797aa.png" width="300" height="300">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/2b03d39a-747c-4973-9552-89ac7c56a796.png" width="300" height="300">|
+| <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/0d0f2e2c-230c-4ffe-8258-141dc795db6a.png" width="300" height="300">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/2ac6fc5c-2121-409e-9f9b-c3b0f90797aa.png" width="300" height="300">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/2b03d39a-747c-4973-9552-89ac7c56a796.png" width="400" height="280">|
 
 # User 'user' with role 'USER'
 ### Main page
