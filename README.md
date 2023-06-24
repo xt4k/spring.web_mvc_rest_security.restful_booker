@@ -3,9 +3,9 @@
 ### Done in frame self-qualification task to show and use knowledge taken from UDEMY training: 'Spring for beginners'.
 <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/6322f2d9-bd8f-4919-8585-e0448088e100" width="400" height="300">
 
-![image](https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7136dbda-f182-471f-9ee8-c8963e9cbd17)
 
-[https://user-images.githubusercontent.com/38681283/248458847-7136dbda-f182-471f-9ee8-c8963e9cbd17.png](https://user-images.githubusercontent.com/38681283/248458847-7136dbda-f182-471f-9ee8-c8963e9cbd17.png)
+![image](https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/dd07cd20-5a95-4672-96a4-684a39440b24)
+
 
 
 
