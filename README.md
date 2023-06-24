@@ -5,7 +5,7 @@
 
 ## TABLE OF CONTENT
 
-* [SPOTIFY](#spotify)
+* [RESTFUL-BOOKER](#spotify)
 * [General info](#general-info)
 * [Technology stack](#technology-stack)
 * [Test Levels](#test-levels)
