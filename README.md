@@ -47,7 +47,7 @@
 | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/d8bc5bc7-7cf8-4e8d-a48c-a42bb9858f96.png" width="300" height="130"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/9836562b-b6e9-47df-9973-8492c2960864.png" width="300" height="130"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/2b03d39a-747c-4973-9552-89ac7c56a796.png" width="350" height="180"> |
 
 ### 'Booking Operation' page
-| Role 'GUEST'| 'Role 'USER' and Role 'ADMIN'|
+| Role 'GUEST'| 'Role 'USER' and 'ADMIN'|
 |:-------------:|:--------:|
 | has no access to this page | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/918b0b34-eb67-4aff-a1e9-d37a4797719f.png" width="400" height="300"> |
 
@@ -57,7 +57,7 @@
 | user has no access to this page | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/04607bf1-e531-4260-892a-3d5bfa77b287.png" width="400" height="300"> |
 
 ### 'Booking Operation' page: Add new Booking
-| Role 'GUEST' and 'Role 'USER'| 'ADMIN'|
+| Role 'GUEST' and 'USER'| 'ADMIN'|
 |:-------------:|:--------:|
 | has no access to this page | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/def38fef-2dcd-4ea5-ad12-b3f8ae6d7b80.png" width="400" height="380"> |
 
